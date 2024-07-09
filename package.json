@@ -1,0 +1,26 @@
+{
+  "name": "node_js_learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArekSzlapa/NodeJs-Express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArekSzlapa/NodeJs-Express/issues"
+  },
+  "homepage": "https://github.com/ArekSzlapa/NodeJs-Express#readme"
+}
